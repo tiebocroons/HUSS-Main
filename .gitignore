@@ -6,6 +6,8 @@ vendor/
 .env
 .env.local
 .env.*.local
+.env.*
+.env copy*
 
 # IDE and Editor
 .vscode/
