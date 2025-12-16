@@ -4,10 +4,7 @@ vendor/
 
 # Environment variables
 .env
-.env.local
-.env.*.local
-.env.*
-.env copy*
+.env.example
 
 # IDE and Editor
 .vscode/
